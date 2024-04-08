@@ -3,3 +3,16 @@
 2024-04-04 11:42:01 - [32minfo[39m: [32mServer started on port 3333[39m
 2024-04-04 11:43:14 - [34minfo[39m: [34mServer started on port 3333[39m
 2024-04-04 11:43:43 - [32minfo[39m: [32mServer started on port 3333[39m
+2024-04-04 14:05:19 - [32minfo[39m: [32mServer started on port 3333[39m
+2024-04-08 17:00:08 - [32minfo[39m: [32mServer started on port 3333[39m
+2024-04-08 17:00:41 - [32minfo[39m: [32mServer started on port 3333[39m
+2024-04-08 17:05:51 - [32minfo[39m: [32mServer started on port 3333[39m
+2024-04-08 17:05:57 - [35mhttp[39m: [35mPOST /create 200 47 - 4.241 ms[39m
+[35m[39m
+2024-04-08 17:06:29 - [35mhttp[39m: [35mPOST /create 400 154 - 2.644 ms[39m
+[35m[39m
+2024-04-08 17:07:01 - [35mhttp[39m: [35mPOST /create 200 36 - 0.955 ms[39m
+[35m[39m
+2024-04-08 17:08:07 - [32minfo[39m: [32mServer started on port 3333[39m
+2024-04-08 17:08:24 - [35mhttp[39m: [35mPOST /create 400 131 - 6.659 ms[39m
+[35m[39m

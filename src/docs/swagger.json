@@ -1,0 +1,12 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "API de cadastro",
+    "description": "API de cadastro",
+    "termsOfService": "this",
+    "contact": {
+      "email": "juliocfisica@gmail.com"
+    },
+    "version": "1.0.0"
+  }
+}
